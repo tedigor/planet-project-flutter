@@ -1,4 +1,4 @@
-# atividade_2
+# Planet flutter
 
 A new Flutter project.
 
